@@ -1,2 +1,2 @@
 # amplify_notetaker
-My overly complicated implementation of a note taking app using React and deployed serverless  on AWS amplify 
+My overly complicated and unnecessary implementation of a note taking app using Create React App and deployed serverlessly via AWS amplify, continuously linked to GitHub front-end and connected to a custom domain. 
